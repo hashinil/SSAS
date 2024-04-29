@@ -5,22 +5,29 @@
 >- SQL Server Management Studio
 >- Visual Studio 2022
 >- SSAS in Visual Studio 2022
+>- Resrore backup on SSMS
+>- - [Download OLTP db](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
+>- - [Download datawarehouse](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
+
+2. Creating First Cube
+>- 1. Creating FIrst report 
+>- 2. Facts, Dimension and cube
+>- 3. Creating Data connection
+>- 4. creating data source view
+>- 5. creating cube
+>- 6. creating a role and play with the cube
+>- 7. looking at cube using excel
+>- 8. adding an extra table and creating dimension
+>- 9. Updating the cube
+>- 10. looking at cube using SSMS
+>- 11. Looking at the cube in SSRS [Output](#2_1)
 
 ### 2_4
 
 
-2. Preparing to create reports
->- 1. Ceate Project on VS SSRS
->- 2. Resrore backup on SSMS [Download Backup](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms#download-backup-files)
->- 3. Connect DB to SSRS project 
->- 4. Shared Data sources [Output](#2_4)
->- 5. Shared Datasets [Output](#2_5)
 
-3. Creating First Report
->- 1. Creating report [Output](#3_1)
->- 2. Preview report [Output](#3_2)
->- 3. Recreating report (not using the Report Wizard)
->- 4. Properties pane
+
+
 
 4. Formatting, Sorting, Grouping, visibility and table headers [Output](#4)
 
