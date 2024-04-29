@@ -14,15 +14,16 @@
 >- 2. Facts, Dimension and cube
 >- 3. Creating Data connection
 >- 4. creating data source view
->- 5. creating cube
+>- 5. creating cube [Output](#2_5)
 >- 6. creating a role and play with the cube
 >- 7. looking at cube using excel
 >- 8. adding an extra table and creating dimension
 >- 9. Updating the cube
 >- 10. looking at cube using SSMS
->- 11. Looking at the cube in SSRS [Output](#2_1)
+>- 11. Looking at the cube in SSRS 
 
-### 2_4
+### 2_5
+![image](https://github.com/hashinil/SSAS/assets/33922245/3a7a6dd1-960a-456c-a523-68db7160273e)
 
 
 
