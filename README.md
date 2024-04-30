@@ -20,7 +20,14 @@
 >- 8. adding an extra table and creating dimension
 >- 9. Updating the cube [Output](#2_9)
 >- 10. looking at cube using SSMS [Output](#2_10)
->- 11. Looking at the cube in SSRS 
+>- 11. Looking at the cube in SSRS [Output](#2_11)
+
+3. Creating a new cube and enhancing it
+>- 1. Updating dimensions, creating translations (Not done)
+>- 2. Adding a new table to the data source view and relpacing it with a query [Output](#5_2)
+>- 3. Adding a hierarchy two levels [Output](#5_3)
+>- 4. Adding a hierarchy three levels [Output](#5_3)
+
 
 ### 2_5
 ![image](https://github.com/hashinil/SSAS/assets/33922245/3a7a6dd1-960a-456c-a523-68db7160273e)
@@ -41,10 +48,7 @@
 
 4. Formatting, Sorting, Grouping, visibility and table headers [Output](#4)
 
-5. Creating a Drillthrough report
->- 1. Creating catogorised report [Output](#5_1)
->- 2. Adding parameters to report [Output](#5_2)
->- 3. Creating hyperlinks from one report to another [Output](#5_3)
+
  
 6. More advanced techniques
 >- 1. Adding Sub report [Output](#6_1) 
