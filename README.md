@@ -16,18 +16,27 @@
 >- 4. creating data source view
 >- 5. creating cube [Output](#2_5)
 >- 6. creating a role and play with the cube
->- 7. looking at cube using excel
+>- 7. looking at cube using excel [Output](#2_7)
 >- 8. adding an extra table and creating dimension
->- 9. Updating the cube
->- 10. looking at cube using SSMS
+>- 9. Updating the cube [Output](#2_9)
+>- 10. looking at cube using SSMS [Output](#2_10)
 >- 11. Looking at the cube in SSRS 
 
 ### 2_5
 ![image](https://github.com/hashinil/SSAS/assets/33922245/3a7a6dd1-960a-456c-a523-68db7160273e)
 
+### 2_7
+![image](https://github.com/hashinil/SSAS/assets/33922245/44fa5aa4-faf0-4aaf-b105-9ae0ee7482f5)
 
+### 2_9
+![image](https://github.com/hashinil/SSAS/assets/33922245/f1939e7f-4aff-4a8d-99f2-1afe9753a682)
 
+### 2_10
+![image](https://github.com/hashinil/SSAS/assets/33922245/ce7e9bd6-de5e-4e91-93fd-dc0e33c85ffb)
 
+### 2_11
+![image](https://github.com/hashinil/SSAS/assets/33922245/9b54bbcb-e892-4722-b596-fb6be599ea28)
+![image](https://github.com/hashinil/SSAS/assets/33922245/d70a669e-dcd2-4366-88a2-bf6da209a854)
 
 
 4. Formatting, Sorting, Grouping, visibility and table headers [Output](#4)
